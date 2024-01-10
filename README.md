@@ -7,4 +7,3 @@ Makena Smith
 maklsmit
 
 ## I have installed the software on my computer as a part of the exercise
-Yup
